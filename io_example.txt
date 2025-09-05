@@ -1,0 +1,2 @@
+Xin chào, đây là ví dụ I/O truyền thống!
+Dòng 2: Ghi thêm với I/O

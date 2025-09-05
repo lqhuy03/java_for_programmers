@@ -1,0 +1,2 @@
+Xin chào, đây là ví dụ NIO hiện đại!
+Dòng 2: Ghi thêm với NIO

@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
@@ -10,6 +11,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/module-basics" />
             <option value="$PROJECT_DIR$/module-collections" />
+            <option value="$PROJECT_DIR$/module-collections/module-java8" />
+            <option value="$PROJECT_DIR$/module-file_io" />
+            <option value="$PROJECT_DIR$/module-generics" />
             <option value="$PROJECT_DIR$/module-java8" />
             <option value="$PROJECT_DIR$/module-multithreading" />
             <option value="$PROJECT_DIR$/module-oop" />
